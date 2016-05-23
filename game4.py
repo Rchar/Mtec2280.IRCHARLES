@@ -85,8 +85,7 @@ while (True):
 
 
 
-        
-
-
-
-
+        # if(state == 4):
+        # command = input("")
+        # print("")
+        # if(state == 5):
