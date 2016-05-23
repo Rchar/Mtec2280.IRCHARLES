@@ -1,0 +1,30 @@
+3:16 PM 5/18/2016 
+documentation all you need is the code for both python and arduino as well as the mechanics like what the arduino controls or displays
+
+
+
+the story is that you are a detective looking for a mising girl 
+you find out that she has been seen around an abandond building known as a shelter for homeless children
+you also find information about a man named "Hue". he is suspected of trafficing children for labor factories
+as you check out around the perimeter to see if you can find any information about this girl.
+you ask the kids that are hanging around the place to ask about either about this girl or the one called "Hue".
+you find out that  "hue" is seen around the square area recently. you go to the central square. if you can find
+anything here about this guy it might give a few leads to the girl. 
+you go around asking some of the shop owners if theyve seen or heard anything about this man or the whereabouts 
+of the girl. you find a few leads one of them being at a local fire station as well as a tattoo shop close to the 
+out skirts of town. 
+
+at the fire station you speak with a few people there that tell you that the girl used to come by selling baskets of sweets and flowers.
+but that was up until a week ago she was last seen. when you ask about this Hue person, youre being told you shouldnt ask about him it could attract the wrong attention. Hue seems to be well known around the city you assume so you think digging into this might be a good idea.
+
+you go to the tattoo shop. you show the photo of the girl and ask if anyone has seen her around. from what they say she was last seen with a guy. when you ask if this guy might be hue they tell you that they dont know but does tell you where you might find this guy and gives you a description. you call for an identification of this man at the station.
+you find out that this guy is seeen around the abandoned building picking up kids from the house and never returning with them. 
+but you also find out that  this doesnt only happen here but also at around at the fire station you assume that everyone here know whats going on but maybe theyre just too scared to say anything .
+
+the end of the game has two outputs. either if you dont find all the clues you end getting kidnapped and held hostage.
+the other is you find the girl and find out shes actually an accomplice and aiding Hue is involved in the dissapearing kids all over town.
+
+
+
+
+
