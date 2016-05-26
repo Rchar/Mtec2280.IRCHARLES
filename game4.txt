@@ -22,8 +22,10 @@ you find out that this guy is seeen around the abandoned building picking up kid
 but you also find out that  this doesnt only happen here but also at around at the fire station you assume that everyone here know whats going on but maybe theyre just too scared to say anything .
 
 the end of the game has two outputs. either if you dont find all the clues you end getting kidnapped and held hostage.
-the other is you find the girl and find out shes actually an accomplice and aiding Hue is involved in the dissapearing kids all over town.
+the other is you find the girl and find out shes actually an accomplice and aiding Hue is involved in the dissapearing kids all over town. but they end 
 
+issues and game mechanics
+some issues that came up was trying to figure out with the code how to  make the protagonist able to return to a previous "state" or scene. also to get the python code to work with the arduino was an issue. 
 
 
 

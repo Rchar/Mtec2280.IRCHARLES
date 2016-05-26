@@ -1,0 +1,3 @@
+
+issues and game mechanics
+some issues that came up was trying to figure out with the code how to  make the protagonist able to return to a previous "state" or scene. also to get the python code to work with the arduino was an issue. 
